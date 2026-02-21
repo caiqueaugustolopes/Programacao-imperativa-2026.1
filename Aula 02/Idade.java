@@ -24,6 +24,9 @@ public class Idade {
             System.out.println("Você não tem mais obrigação de votar!");
         }
 
+        int anoNasc = ANO_ATUAL - idade;
+        System.out.println("Você nasceu provavelmente em " + anoNasc);
+
         input.close();
     }
 }
