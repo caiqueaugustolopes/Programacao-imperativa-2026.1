@@ -30,3 +30,4 @@ public class Idade {
         input.close();
     }
 }
+//HARD CODE VALUE - MAGICAL VALUE
