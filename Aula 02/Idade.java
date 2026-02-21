@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class Idade {
+    public static final int ANO_ATUAL = 2026;
     public static void main(String[] args) {
         
         Scanner input = new Scanner(System.in);
